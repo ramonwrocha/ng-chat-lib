@@ -23,7 +23,7 @@ import { Window } from "./core/window";
 import { Message } from "./core/message";
 
 @Component({
-  selector: 'lib-ng-chat-lib',
+  selector: 'ng-chat-lib',
   templateUrl: 'ng-chat-lib.component.html',
   styleUrls: [
     'assets/icons.css',
